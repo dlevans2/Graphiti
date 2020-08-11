@@ -7,7 +7,7 @@ let package = Package(
         .library(name: "Graphiti", targets: ["Graphiti"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/GraphQLSwift/GraphQL.git", .upToNextMinor(from: "0.13.1")),
+                .package(url: "https://github.com/dlevans2/GraphQL.git", .branch("feature/aws-error")),
         .package(url: "https://github.com/wickwirew/Runtime.git", .upToNextMinor(from: "2.1.0"))
     ],
     targets: [

@@ -12,11 +12,11 @@
       },
       {
         "package": "GraphQL",
-        "repositoryURL": "https://github.com/GraphQLSwift/GraphQL.git",
+        "repositoryURL": "https://github.com/dlevans2/GraphQL.git",
         "state": {
-          "branch": null,
-          "revision": "02e6a51831ceedec2cc23c7db1f25e26dcabb32c",
-          "version": "0.13.1"
+          "branch": "feature/aws-error",
+          "revision": "2698def9f6f8a05380bf5ee171eda65bf7a042bb",
+          "version": null
         }
       },
       {
